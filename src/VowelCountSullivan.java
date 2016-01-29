@@ -1,4 +1,4 @@
-//Katie Sullivan
+//Katie Sullivan's project
 
 import java.util.Scanner;
 
